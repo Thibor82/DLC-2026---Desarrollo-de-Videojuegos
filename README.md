@@ -20,14 +20,14 @@
 
     * Respuesta:
 
-        Aventura conversacional.
+       ` Aventura conversacional.
 
         Un hombre tiene la opción de llegar a ser una mujer famosa (objetivo final del juego).
-        Tendrá diferentes finales dependiendo de las acciones del jugador. Se podrá transformar en diferentes personajes - animales - cosas.
+        Tendrá diferentes finales dependiendo de las acciones del jugador. Se podrá transformar en diferentes personajes - animales - cosas. 
 
         A lo largo del juego has de descifrar de forma “coherente” mensajes que en principio no tienen sentido. realizando entrevistas de trabajo, conversaciones con gente, familiares, etc… (estilo restos de Monkey Island, diálogos de los monty python, humor absurdo, etc…).
 
-        Durante las conversaciones el juego irá ganando respuestas comodín (power ups), como tortilla de patata, pizza, valerianas, bicicletas o barcas a pedales. Cada power up te dará diferentes ventajas / desventajas frente a los retos conversacionales.
+        Durante las conversaciones el juego irá ganando respuestas comodín (power ups), como tortilla de patata, pizza, valerianas, bicicletas o barcas a pedales. Cada power up te dará diferentes ventajas / desventajas frente a los retos conversacionales. `
 
     * Imagen generada por AI (Nano Banana).
 
